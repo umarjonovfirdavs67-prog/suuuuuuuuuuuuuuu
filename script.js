@@ -8,7 +8,7 @@ person.Familiya = familiya;
 person.Email = ism.toLowerCase() + familiya.toLowerCase() + "@school.uz";
 let yosh = prompt("Yoshingizni kiriting:");
 
-person.Yosh = 2026 - Number(yosh);
+person.Yil = 2026 - Number(yosh);
 
 let matematika = prompt("Matematika bahoingiz:");
 
